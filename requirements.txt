@@ -76,7 +76,7 @@ send2trash==1.5.0
 six==1.15.0
 tensorboard-plugin-wit==1.6.0.post3
 tensorboard==2.6.0
-tensorflow-estimator==2.2.0
+tensorflow-estimator==2.6.0
 tensorflow-cpu==2.6.2
 termcolor==1.1.0
 terminado==0.8.3
